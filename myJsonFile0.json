@@ -1,41 +1,8 @@
 [
 {
-	"random": "34",
-	"random float": "6.863",
-	"bool": "false",
-	"date": "1988-04-14",
-	"regEx": "hellooooooooooo to you",
-	"enum": "generator",
-	"firstname": "Rayna",
-	"lastname": "Erminia",
-	"city": "Bangalore",
-	"country": "Tuvalu",
-	"countryCode": "AO",
-	"email uses current data": "Rayna.Erminia@gmail.com",
-	"email from expression": "Rayna.Erminia@yopmail.com",
-	"array": [
-		"Jan",
-		"Leanna",
-		"Yvonne",
-		"Carmela",
-		"Mallory"
-	],
-	"array of objects": [
-		{
-			"index": "0",
-			"index start at 5": "5"
-		},
-		{
-			"index": "1",
-			"index start at 5": "6"
-		},
-		{
-			"index": "2",
-			"index start at 5": "7"
-		}
-	],
-	"Alex": {
-		"age": "19"
-	}
+"name": "Sarah Abs",
+"email": "ttttttt",
+"subject": "tdddtt",
+"message": "ttswst",
 }
-	]
+]
